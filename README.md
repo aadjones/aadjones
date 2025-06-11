@@ -1,16 +1,29 @@
-## Hi there 👋
+# Aaron Demby Jones
 
-<!--
-**aadjones/aadjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Artist**  
+Exploring systems.
 
-Here are some ideas to get you started:
+[🌐 studiodemby.com](https://www.studiodemby.com) • [🎵 piano teaching](https://studiodemby.carrd.co/) • [🐸 frog math](https://github.com/aadjones/frog-math)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 📁 Featured Projects
+| Project        | Description                                                  |
+|----------------|--------------------------------------------------------------|
+| [studio-demby](https://github.com/aadjones/studio-demby) | Portfolio of music, generative art, and coded experiments |
+| [juice](https://github.com/aadjones/juice)           | Dashboard for tracking juice over time |
+| [frog-math](https://github.com/aadjones/frog-math)   | Number theory, but with frogs     |
+| [resume](https://github.com/aadjones/resume)         | A résumé that tells the truth               |
+
+---
+
+---
+
+## 🕯️ Contact / Collab
+Feel something stir?  
+Open an issue. Send a carrier pigeon.
+
+---
+
+
