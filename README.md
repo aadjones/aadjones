@@ -3,7 +3,7 @@
 **Artist**  
 Exploring systems.
 
-[🌐 studiodemby.com](https://www.studiodemby.com) • [🎵 piano teaching](https://studiodemby.carrd.co/) • [🐸 frog math](https://github.com/aadjones/frog-math)
+[🌐 studiodemby.com](https://www.studiodemby.com) • [🎵 piano teaching](https://studiodemby.carrd.co/) • [🐸 frog math](https://aadjones.github.io/frog-math/)
 
 ---
 
